@@ -20,9 +20,4 @@ public class Levels : MonoBehaviour
     {
         SceneManager.LoadScene("_Scene3");
     }
-
-    public void QuitGame()
-    {
-        Application.Quit();
-    }
 }
